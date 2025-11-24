@@ -92,7 +92,7 @@
 ---
 
 # 5. Диаграмма вариантов использования
-
+![image](https://github.com/kvakita/Baydina_EA_SOFTWARE_ARCHITECTURE/blob/work/Lab%20work%20%E2%84%96%201/plantuml%20(3).svg)  
 @startuml
 left to right direction
 

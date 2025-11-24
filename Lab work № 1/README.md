@@ -93,7 +93,6 @@
 
 # 5. Диаграмма вариантов использования
 
-```plantuml
 @startuml
 left to right direction
 
@@ -111,13 +110,11 @@ rectangle "Система скоринга" as SYS {
   usecase UC7 as "Сформировать\nунифицированный скоринг"
   usecase UC8 as "Управлять стратегиями и правилами\nскоринга"
 }
-
 RA -- UC1
 RA -- UC2
 RA -- UC3
 RA -- UC4
 ADM -- UC8
-
 UC1 ..> UC5 : <<include>>
 UC1 ..> UC6 : <<include>>
 UC6 ..> UC7 : <<include>>

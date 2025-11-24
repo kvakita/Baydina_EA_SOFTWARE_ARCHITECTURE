@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="476px" preserveAspectRatio="none" style="width:1377px;height:476px;background:#FFFFFF;" version="1.1" viewBox="0 0 1377 476" width="1377px" zoomAndPan="magnify"><defs/><g><!--MD5=[ee52d133ea2372ae680bfb4fb8d133c7]
+cluster SYS--><g id="cluster_SYS"><rect fill="none" height="413" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;" width="1201" x="170" y="57.57"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="148" x="696.5" y="72.5651">Система скоринга</text></g><g id="elem_UC1"><ellipse cx="366.8195" cy="208.3339" fill="#F1F1F1" rx="121.8195" ry="26.7639" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="284.8195" y="203.933">Проверить компанию</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="345.8195" y="220.2299">по ID</text></g><g id="elem_UC2"><ellipse cx="814.5345" cy="123.6769" fill="#F1F1F1" rx="143.5345" ry="31.1069" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="725.0345" y="118.3751">Просмотреть результат</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="217" x="706.0345" y="134.672">скоринга компании по traceID</text></g><g id="elem_UC3"><ellipse cx="367.2188" cy="309.7138" fill="#F1F1F1" rx="181.2188" ry="38.6438" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="271.2188" y="304.412">Просмотреть объяснение</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="305" x="214.7188" y="320.7089">результата скоринга компании по traceID</text></g><g id="elem_UC4"><ellipse cx="366.8099" cy="119.3415" fill="#F1F1F1" rx="115.8099" ry="26.2715" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146" x="290.8099" y="114.9406">Просмотреть аудит</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="291.3099" y="131.2375">проверки компании</text></g><g id="elem_UC5"><ellipse cx="814.3151" cy="311.433" fill="#F1F1F1" rx="142.3151" ry="30.863" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="169" x="729.8151" y="306.1313">Определить структуру</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="214" x="707.3151" y="322.4281">компании (филиал/головная)</text></g><g id="elem_UC6"><ellipse cx="814.4187" cy="217.7537" fill="#F1F1F1" rx="126.4187" ry="27.6837" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="221" x="703.9187" y="220.6004">Выполнить скоринг компании</text></g><g id="elem_UC7"><ellipse cx="1218.0968" cy="217.3894" fill="#F1F1F1" rx="137.0968" ry="29.8194" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="1162.5968" y="212.0876">Сформировать</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="201" x="1117.5968" y="228.3845">унифицированный скоринг</text></g><g id="elem_UC8"><ellipse cx="366.7849" cy="418.727" fill="#F1F1F1" rx="166.2849" ry="35.657" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="271" x="231.2849" y="413.4252">Управлять стратегиями и правилами</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="333.2849" y="429.7221">скоринга</text></g><!--MD5=[47c0f3c52f3f25bd358fc77375ac8d93]
+entity RA--><g id="elem_RA"><ellipse cx="64.5" cy="124.07" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M64.5,132.07 L64.5,159.07 M51.5,140.07 L77.5,140.07 M64.5,159.07 L51.5,174.07 M64.5,159.07 L77.5,174.07 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="10.5" y="188.5651">Риск-аналитик</text></g><!--MD5=[5bb58f447e60c14e9d23282c6a4405f4]
+entity ADM--><g id="elem_ADM"><ellipse cx="64.5" cy="380.57" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M64.5,388.57 L64.5,415.57 M51.5,396.57 L77.5,396.57 M64.5,415.57 L51.5,430.57 M64.5,415.57 L77.5,430.57 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="6" y="445.0651">Администратор</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="6" y="461.362">стратегий</text></g><!--MD5=[4135bfe7381fa4ecdee4361094a2d23b]
+link RA to UC1--><g id="link_RA_UC1"><path d="M118.53,163.28 C161.08,171.06 221.84,182.19 272.51,191.46 " fill="none" id="RA-UC1" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1e0db4b0b16f7e17415f7547ab9fb5ea]
+link RA to UC2--><g id="link_RA_UC2"><path d="M100.71,115.34 C117.56,99.83 139.05,83.69 162,75.57 C358.74,6 609.23,61.23 734.57,97.81 " fill="none" id="RA-UC2" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[58657a728329c29e7f017874f4daacea]
+link RA to UC3--><g id="link_RA_UC3"><path d="M94.34,191.8 C111.83,212.53 135.78,237.02 162,252.57 C183.82,265.51 208.7,275.62 233.41,283.48 " fill="none" id="RA-UC3" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[926caa213feaaeb086a357392028e112]
+link RA to UC4--><g id="link_RA_UC4"><path d="M118.53,147.57 C158.38,143.06 214.22,136.74 262.77,131.25 " fill="none" id="RA-UC4" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[16c90de57f8c23c83540c2bed0ab6def]
+link ADM to UC8--><g id="link_ADM_UC8"><path d="M123.08,418.57 C145.58,418.57 172.62,418.57 200.37,418.57 " fill="none" id="ADM-UC8" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[33db5329112521c846cf0b630a56623e]
+link UC1 to UC5--><g id="link_UC1_UC5"><path d="M452.06,228 C525.58,245 632.6,269.75 711.11,287.9 " fill="none" id="UC1-to-UC5" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="716.24,289.08,708.375,283.152,711.369,287.9515,706.5694,290.9455,716.24,289.08" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="61" x="579" y="256.6369">«include»</text></g><!--MD5=[aa9d2cfd37f9b85e856ad6a1e4475780]
+link UC1 to UC6--><g id="link_UC1_UC6"><path d="M488.56,211.01 C548.71,212.22 621.56,213.69 683.02,214.93 " fill="none" id="UC1-to-UC6" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="688.18,215.04,679.2618,210.8608,683.181,214.94,679.1018,218.8592,688.18,215.04" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="61" x="579" y="209.6369">«include»</text></g><!--MD5=[f92658300d5adc4fe1f3be64a23e2cf6]
+link UC6 to UC7--><g id="link_UC6_UC7"><path d="M941.16,217.57 C983.91,217.57 1031.97,217.57 1075.84,217.57 " fill="none" id="UC6-to-UC7" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1080.9,217.57,1071.9,213.57,1075.9,217.57,1071.9,221.57,1080.9,217.57" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="61" x="989" y="213.6369">«include»</text></g><!--MD5=[808375f45a9a625fb29b5884c6a1323f]
+link UC4 to UC2--><g id="link_UC4_UC2"><path d="M483.02,120.6 C538.81,121.1 606.48,121.71 666.03,122.25 " fill="none" id="UC4-to-UC2" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="671.03,122.29,662.0646,118.213,666.0302,122.2471,661.996,126.2127,671.03,122.29" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="60" x="579.5" y="117.6369">«extend»</text></g><!--MD5=[bf3b15481b52d91e6ae3c3eedbcf5788]
+@startuml
+left to right direction
+
+actor "Риск-аналитик" as RA
+actor "Администратор\nстратегий" as ADM
+
+rectangle "Система скоринга" as SYS {
+
+  ' Основной вариант использования
+  usecase UC1 as "Проверить компанию\nпо ID"
+
+  ' Пользовательские варианты просмотра
+  usecase UC2 as "Просмотреть результат\nскоринга компании по traceID"
+  usecase UC3 as "Просмотреть объяснение\nрезультата скоринга компании по traceID"
+  usecase UC4 as "Просмотреть аудит\nпроверки компании"
+
+  ' Внутренние, но явно выделенные подпроцессы для include
+  usecase UC5 as "Определить структуру\nкомпании (филиал/головная)"
+  usecase UC6 as "Выполнить скоринг компании"
+  usecase UC7 as "Сформировать\nунифицированный скоринг"
+
+  ' Администрирование стратегий
+  usecase UC8 as "Управлять стратегиями и правилами\nскоринга"
+}
+
+' Связь актёров с вариантами использования
+RA - - UC1
+RA - - UC2
+RA - - UC3
+RA - - UC4
+
+ADM - - UC8
+
+' Логика основного сценария
+UC1 ..> UC5 : <<include>>
+UC1 ..> UC6 : <<include>>
+UC6 ..> UC7 : <<include>>
+
+
+' Просмотр аудита часто вызывается\nиз контекста просмотра результата
+UC4 ..> UC2 : <<extend>>
+@enduml
+
+@startuml
+left to right direction
+
+actor "Риск-аналитик" as RA
+actor "Администратор\nстратегий" as ADM
+
+rectangle "Система скоринга" as SYS {
+
+  usecase UC1 as "Проверить компанию\nпо ID"
+
+  usecase UC2 as "Просмотреть результат\nскоринга компании по traceID"
+  usecase UC3 as "Просмотреть объяснение\nрезультата скоринга компании по traceID"
+  usecase UC4 as "Просмотреть аудит\nпроверки компании"
+
+  usecase UC5 as "Определить структуру\nкомпании (филиал/головная)"
+  usecase UC6 as "Выполнить скоринг компании"
+  usecase UC7 as "Сформировать\nунифицированный скоринг"
+
+  usecase UC8 as "Управлять стратегиями и правилами\nскоринга"
+}
+
+RA - - UC1
+RA - - UC2
+RA - - UC3
+RA - - UC4
+
+ADM - - UC8
+
+UC1 ..> UC5 : <<include>>
+UC1 ..> UC6 : <<include>>
+UC6 ..> UC7 : <<include>>
+
+
+UC4 ..> UC2 : <<extend>>
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

@@ -93,7 +93,7 @@
 
 # 5. Диаграмма вариантов использования
 ![image](https://github.com/kvakita/Baydina_EA_SOFTWARE_ARCHITECTURE/blob/work/Lab%20work%20%E2%84%96%201/plantuml%20(3).svg)  
-@startuml
+```@startuml
 left to right direction
 
 actor "Риск-аналитик" as RA
@@ -122,3 +122,4 @@ UC6 ..> UC7 : <<include>>
 UC4 ..> UC2 : <<extend>>
 
 @enduml
+```

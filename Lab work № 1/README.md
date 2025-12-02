@@ -116,7 +116,7 @@ UC1 ..> UC5 : <<include>>
 UC1 ..> UC6 : <<include>>
 UC6 ..> UC7 : <<include>>
 UC8 ..> UC9 : <<include>>
-UC4 ..> UC2 : <<extend>>
+UC4 <.. UC2 : <<extend>>
 
 @enduml
 ```

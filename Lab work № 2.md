@@ -1,5 +1,5 @@
 # Диаграмма системного контекста
-![image](https://uml.planttext.com/plantuml/png/ZLPDRzD04BtxLomzfL9ABvmGGa2e10VKgkazYXghMAHE5RiL4K9AcduWWaW18H0VAfNW20fj8zmqJl_2xb_Wb_1cTftOZWjKQkjTpywyUVDcrhSylrptDzUhejZmV7kzK7Dz-x4_LwYjRrITihjg5rThTSTTiwuuxcfrisAB6uLhyuLh9MDvqx9ynw_QGXx9GBNKjkpBeGnLHvu9EP0ZFDBMW5vT5_9GdikUsbOxSgIQCEm9rI8pB08PoXDiyAcXl21Bd0nLQuxUQZjvB8pv1V-5Bnmyfe1gbrwTOzddeB2rh2MxxjNSNDtn7fNARhcA9FDYHdxH_kOG8SGl3h6VmGozV8UT2zNcW42WjWMMJVA7HHERmLIWl9Xuah_WhQdQV1BsVVaBYtFr0gQKUaUGWv7ygPwhBeA4v8QSiR5wffUgUtLcDeBl-VMoRwyrIkNAkkCInWDv2eu2jWIpXWam8cBBFlWCv1adzHaxvWqJ5akiXsL0R1EmL3cG6qhPd_OQnE1LxAtQXeSeT-sjnGrFp0lvdIfEDKJgFKvyZt9YA9z85Smuno6MMdXiyKOtug8raPFgv0NyH5ZFOSJWjRnsO7-2SZMZ84GCeREqf4jtQfjkfLnlvBm6WVmF3SxCYYUMm8_saFDq3vGyNfAFkDWppfF9Qn07aI9O604U0I1LTw3Q8gtfX9wu4ZjSbO1L5MdiX0LrabIOzWDH8PpWel4111f5NKZzr6DgcPgdOt8M7lkvrJhbL5X-8EHFjXgO5DuplOObJQwW476qFRMRJsBb7UXpfFLZ-dINuiQ2rkqr1xfkK9mFsHqDy9nkNwkF8HtH4r8Vu3_NN90Y4FSqwflhIGfwX3b10JP-xxrEO5QT5BgrsXP5UyEwZ650z-RaM-n_aJ_aHwJv5PrrDClGVh00JX5Wdyof9APpM6uOA2Ha612AaDkAo9p0fncnbq6LXpdiEpNNqyhZ2b4rk8z2qv_8pkX0gu_c2eQ9xYOI1r7QvYuceiPTbkKDlleyZFR9BeMclEa_d6u1m6xpWZGHCBS3hHd4pXMBYvgZ0ymJq_UOasDD1Od-ZW_44RVxC0D5nV4r389wJ60O11TWsmZu6xkSJDYu0KVbRkBnt3MuJDECmDI-UeNDqCmcFLEMxMhgDfaU3l-wG5GxRtPWCcHnD6D3EUlEe6pkhQmi5O618AHlX6aG_p_mqvCz7ai7IpcF571mMSbLTvw2P5MQ9w9wWIsYGqUbWlCjjNZ_RY5AC1LJpoX3BS5z5iygqLE9wKHkbnUAAvUuZK-XRD-cxySJ1wERfZ3f5TQTz7Wz-qT0CrWEcOOs6in4UPavFEA9aUFRI_SlyPkO4OSJjKLN3rqDiI7HayE_-nltrw4U1OI4sk7IBngwm_5Dqs4jy4M_i6Mx_hpXmhfbknLyPrf_0000)
+![image](https://uml.planttext.com/plantuml/png/ZLRRIXjH57tFLvpw547hYqzIIaigr8UY6Dz3I8PqQ9oKp2ZwbcIyqKXZBQMbfKIXVPLu2OunbryuvnVw9LrxdvDaPX9h1I_dp9wzrrvxxHLVk5wsx6rj5aLwr_MipLJ9yQmTRpvLsdnVjBDEpahdIcNRAIIUs4wkk9MtnBFKua9gCMCYdoSIdkqLBI7FPQ2ggYRRiYjxgYxlXEp8FlwagmuzMXAoAUzbIzNKdkoh2W9RGbKf38T0zkGrBlYjhXnG9DxigUeyFTLnyagOy07_H2wyU4K5rJuzkiUnpKKHcqYiMMMtv2JBjlikatMoHJGv9sRacSutZmezVECbpjEPeOTVSJDGFXS40bKJE5Oe7muLN0OJXUR4E9EyHRQAylbDnBVbBGxtwXYXr7fTK8A-l5GVL0D5UfI6ad6mEj97rNWwCpk4xthbh6SLTZFP_ARj4COJUGEE0eu4iuO9C292npRu3EGTD_KJD-O94nPgh8LZG6mJiDWuq1j6sPxC6X0yV6dP95sjaepBHoeObiFab1dJAL9ZZ2ZTKmsDfwyEkF-EyaLywX766UiUumwOz-4Khfdow-WCT1xGZdA2s-8NKAW_r2afhiM3qAtfnZBBEruoLwQEKkjlXBpac8vfu1lGZ9GCv9YQe09Xh2srFnT5oZUONr_pQtIyJrL3HSjMmSRSTwdEz-cA1tHkjgsdmv3EwIyqti5ldy85OccJReQwMeeIq2BC4G9myUVWD89PrMFe2gLjglOPaAfX351tKdx1_Pcya3_GvYyextoMeLtm-6zGu932QI16MRmNM3XLPs88HOzbHsIEuTCE7KoXoeLFUNR9SRNkU48q3N8VamZb1aCLQEtHtc7PzEQHD8XIdrLEH9cDh4xDXbnjNjP3YekXoMvvRoSN0B1zFf0c0kQsepM3sibqUbLpT89zgvb5kHrh2bhtHxjw7pOC31Axqvs28czx6WP1lI8m3887K3C2_iqfnmuK3k2gl4jiNms3ownC7qmTga-uxB46QcPjrgrYp6qdhU4nWrN-dBb1I9V5KGcPrZHFfMvURsoifO618CGTSnB4_njYtFd2jNInMFAX0auU6hbgB52HQPDcFrJ7k28wT5KQEBluwighrB31M4tjKOPQWdiKxYgoKn5tehJho-cD1zA6NMXwRhFt8yU1SPC7aruHNO-RwzqZ1OsnD9a67mjcgdoSQXxXnYZnoxML1_96FA8vLjlmWuS-648cqPBTV-SRxLTJMm4XeNLuy1CVQUaplyvQQ53ovMtByHOC5uaNbfF7_s5_0G00)
 ```PlantUML
 @startuml SystemContext-ComplianceScoring
 !include <C4/C4_Context>
@@ -8,11 +8,8 @@ title Системный контекст: Платформа скоринга �
 
 Person(risk_analyst, "Риск-аналитик", "Запускает проверки клиентов, анализирует результаты и объяснение решения.")
 Person(strategy_admin, "Администратор стратегий", "Настраивает правила и скоринговые стратегии.")
-Person(devops, "DevOps / Эксплуатация", "Мониторит состояние системы, управляет конфигурациями.")
 
-System_Boundary(sys, "Платформа скоринга") {
-    System(scoring_system, "Система скоринга", "Выполняет оценку рисков клиентов и филиалов, агрегирует риски по головной компании.")
-}
+System(scoring_system, "Система скоринга", "Выполняет оценку рисков клиентов и филиалов, агрегирует риски по головной компании.")
 
 System_Ext(crm, "CRM банка", "Информация о клиентах, филиалах, договорах.")
 System_Ext(registry, "Корпоративный реестр", "Структура владения: головная компания → филиалы.")
@@ -115,7 +112,7 @@ Rel(api, auth, "Проверка токена", "OIDC")
 @enduml
 ```
 # Диаграмма компонентов Scoring Service
-![image](https://uml.planttext.com/plantuml/png/ZLLTInj157tVNp7DauAbBpwLKjGeHIWe-WDaJOPrOBCJ9hjIAGKJqPQcOFlacyM7lg_QOAfrynTc_b7FdLtNJMOhXdpCt9svvznppqoMUh6lugGJigRiT6N4exZtShibbOY2RQxsHOjxBqJK2fCsPs-QYw-QYplbohUU5uiuv8zxMLluWV8xhrcHWpqayPeoYdqHSRMp8fEexQk3kLw-Pe4rPbOtvjb7psDubPdd_AweB5pUN6zWIacL34EkQAP_caCzrlVu_DMf7fa1qpSOJ13EJDyC5nX-1_gtJiqFF4Huf6_CaRuptn1EpS0C6_Cpk5ArzdWlLduiLON0HYLCsAkoW-hA0eZDEVBVWaKVUS7B70B9SheoGptHcRu3rP6bEsAcZxLPmVzQfmwFGCcawmUarZiQikKWK3oOmNyl0z6owD_rjQtlke9iQH3Gc25E139z1RnC_s443zacq8iOZHq2AWavZmAq4EctC65hTbQBVcvEYjAkYauKCa3ad1HnmFlI5fpYoJrK6J7Rh1Ixnc3dgi0_T4Fh8e2iqJZoOo4ZjfA8iCthbRYmm1bAX_QPlZHVpIbKg6WFdSoNV6fEtS9vLrOwluLfJq3s0uksl651VbdQznQapbTvOIJtoFxUEZ3MJ3muQ8K2Km8i0gnf8mIp7Y6WRCcvuQc9viXyVbhafpLj-x5VWgvYKbgBb7q-E9qhA53qCID7tP6-Y908nsupz_7TJNQfbpHacybkA7fxUHyTE0XwQJFUFjYvRzivHFgyRvyyRuk7-LKnSsxrcRq8Zgpz2xxvlN1YZsY_xWHIikayKuUWT3aoJebSkxLoW2k7CqMAdBoxesfsKhleRbOQrtNpVp8L5jONI7ASEzMSFbm9TNUWcyAnfzl_MPkvIQQizgI1wWLvDCnpxE0jyQYD_pRl7m00)
+![image](https://uml.planttext.com/plantuml/png/ZLPDRzj64BtpLsnrQGB4q2MdeYXYoKuGD84TgNU3ahOC4OeKI2gDK1I8R3W9wW9kSWbGe2boA7gLxGXM_47_XTr_r3T3IboIicL17zpLSjxiUpDl-I2AxJ0UzZtH3Fg3m9T-7Asrkq7e-avRXY_ThhI-SVskD-n9yNtpVhrvVsUnyWVBYjtOa_czekVQJcZtlnDP334FOZK3FxPTNuOxZM3ez-nmT2TArzmJjTBgsbtngsK9l1QHxzW3rrYullsuXY453GFFao6Dr3_wjPgfItmkr4HDzQvGfxYumdIYn_hWdi3lhlgY9lez_iJqL9tgFNMk_y3qHE_gWzhT4cuGTf_BA0xjE0YD1BQCQSBU2FhOtM83bCqdn3z35cF4HLxwDP0ufsDzeAvKeiwHwfJJdGeznjeao_z4JIfvE64m7DWEiVM8BiMwuuJIAU4_2Hoto-X_gXFUtuc1p6aGq4nWdX98r37m4lLL43nekm9VbD6iaa0uzAJq7KY8y2qCn2QFbg9_qc-ohHrdIcGqWEGqASe1xoFUy0J_N8ALgM2n9hXhXkogBCXN0u-h222RTEtRiHlueZ5qlPvSpiHd1awmTN2Vg2Fzkpu42mRtu4c_IuVwiBfnEGWCvLiOHYve7p7Q-XQ3_CjfNpB8ihfADqPqJ_dth0B3nIITKTTpCIJ0R48qUOPW7lkO27dBQS6JY7fFlxsPv9ivxTcnlG3Tm61HMiJixS6fhy10fcD25NLE_6A6IDYlYlaItuDXXxIaIx4zx7Xkz3pLiG87GeyuujcydCSivm72fxhzPbdVYZL-2VM158QiY_wQ4Jj8vm9gf8kizYYAPNzdynNw2rp_Oe-016yHZzAHg8l6muSC_rU-6Gf6AXvpDn6XHXngaoZhaAZW1_CIoLk-9DRNibZ5oAHJQW0LaKoOlzb6o00fuLEkEKENWaW5XKfe9ClMGAOAs9xOQ53uxI2AWTj-zgIul1C6BxWhdyeeiXqf6Zn1j_ne__p21fCjkzDnuwVFSACXqsVOuI7InCvXHIYdNMwVI-wb_ToMafGv98eDpVLhIIyNBZqXr0TixHIVp7WeWzPc-wUwqzfk4ZJTmqjBpgu-yb6nnmQPLNHwShnX4nzNFHftkVxQ80owsFGyTZ5imJKNjWY0ej3bIDL0XlyRtZv1GDH-xkmWvnR1J1k50Wdu_v8P_tI9HwAvLiVCR9B2wVsqr27izBfpTdN0YY5c2b7Bl3DEbfAzhGvSCBphWXfzSXj2SojRRLILibdM3QWtFfld5dR1Sxc98JsQCXgXpDVSYQf6NI2iNZqqoZr3qKtISYUwZhs9-VHnWmKjGqeBYVr7_KS7QXgq3XEOqJ5zGqMbjaH1Sa4MphHIcFb3QvkUYMMlJYUL9t5LcvzG9DO3wVVmmFm_)
 ```PlantUML
 @startuml Components-ScoringService
 !include <C4/C4_Component>
@@ -135,21 +132,38 @@ Container_Boundary(scoring, "Scoring Service") {
     Component(eventpub, "Event Publisher", "Integration", "Публикует события")
 }
 
-Rel(api, orchestrator, "Запускает процесс скоринга")
-Rel(orchestrator, ruleengine, "Оценка правил")
-Rel(orchestrator, groupagg, "Агрегация")
-Rel(orchestrator, explainer, "Построение объяснения")
-Rel(orchestrator, repo, "Сохраняет результаты")
-Rel(orchestrator, strategyclient, "Получает правила")
-Rel(orchestrator, dataclient, "Получает данные")
-Rel(orchestrator, eventpub, "Публикует события")
+' ------ Внешние системы ------
+System_Ext(gateway, "API Gateway / BFF", "Клиент сервиса")
+System_Ext(rules, "Rules Service", "Хранение стратегий и правил")
+System_Ext(dataagg, "Data Aggregation Service", "Нормализованные данные клиента")
+System_Ext(db, "Operational DB", "PostgreSQL")
+System_Ext(broker, "Message Broker", "Kafka / RabbitMQ")
+
+' ------ Связи внутренних компонентов ------
+Rel(gateway, api, "Вызывает", "REST/gRPC")
+
+Rel(api, orchestrator, "Запускает процесс скоринга", "in-process")
+
+Rel(orchestrator, ruleengine, "Оценка правил", "in-process")
+Rel(orchestrator, groupagg, "Агрегация рисков", "in-process")
+Rel(orchestrator, explainer, "Создание объяснения", "in-process")
+Rel(orchestrator, repo, "Сохраняет результаты", "in-process")
+Rel(orchestrator, strategyclient, "Запрашивает правила", "in-process")
+Rel(orchestrator, dataclient, "Запрашивает данные", "in-process")
+Rel(orchestrator, eventpub, "Публикует события", "in-process")
+
+' ------ Связи с внешними системами ------
+Rel(strategyclient, rules, "Получает правила/стратегии", "REST/gRPC")
+Rel(dataclient, dataagg, "Запрашивает агрегированные данные", "REST/gRPC")
+Rel(repo, db, "Читает/пишет результаты", "SQL")
+Rel(eventpub, broker, "Публикует события ScoringStarted/Completed", "Event")
 
 @enduml
 
 ```
 
 # Диаграмма компонентов Data Aggregation Service
-![image](https://uml.planttext.com/plantuml/png/ZLJDQXin4BxhALIV4cZ99QTIIjmDb41RYlq0GUmAHR0h6QriI4B1SKWRQDhS2-sXbrpTn4jDNAUlC7gZZjPUhtVjjjwJPlHzy_FDQFTIoupj9Z4DTDBHYYkRFjbdbZM5C5mmAxLgSzEJ8IUFf0hZRiJfis1t9zWzN32U4sAbZNaPWqQI2SEIfzJ7eal1Q16D15fP9XKtXozqLqNC76z526P2FAQDlz4Qs_IK48hV8jSMwqXaB8ERRmyQwF8PZ8vZRhm5t-71VO1x65AuTHVm02D_7C74NLFuZVR4dICWWocClMi8TwwFvXsQVRo-HSyKfkwZk_2qXT7OhXKKQcsYMac1zqd5hCwBsTS9zavVQI73lBXlcE8UCdVc1dZ2XEuShG5rP_03w-x_9wD9cX7hM6vyswtNT6xvq0VASfo5hsA5X-MLl1ONChNcU5EoqBsI_5BtDkMbJ8N-8YtPxSArQGobJS9YUPApysLvi_2irVUh5n5-eOOJ6CFFkRgbg93XLb2SzWYlfxW8docY_Ovak1TNgugpy8WNkGDl-3Hj72yJ-H6-k4_kSdcBXkuznXvZg7U4j7WyMznYMMeRa8FTDO8zSWwgZxbwktQOLSZAoFoBgqB-DPqgiZA3ki2r1fQnXNHmumQprmRPZcVW8nnZ-rTppaoUDM2QwtG9GmIIFQuY_7-HFm00)
+![image](https://uml.planttext.com/plantuml/png/bLVBRjjM4DtpAswzgGt4q2QheYZYo44Hm6rTgtk3bGY6W4GA96tKBGf8LjmQS1v8qw11YkQ50jq5h1mXj6HBlt3lB_HBUcRul2ALDjwOTyoPCuypvz8tWj3qmuDULpIzNjzpBJSCDhVDqDooRT-opT3nt9Rb7pfjo_Z8STlTWuubFcrURpIlx-SUdnb6w8HTguWXEevf-sRl4q6nH2cOoA8PJSyDJSUr_FsRte7RCVsZzGvUDctxcbXRvRQs8Num386V76lTx3lmAB-yjNjx3IP2yBrkr_Bf95_BkVfPJcKav5YToBbyIuzlvKmz57A1yqoDyC94NicOJ94yLmCSpt4SuCzZMAxabJfJ9-IM7zOsbX9gUvxVMKgfIJR7DKEFazdsUgXTx7Ysq-RadWDYAYTgg8xn140rmkbOgA7y6taFD4GXO_aELU0yKQUSBzd8cMk40S6GSJKrlxVLCVkXvLD_zhuGwObokEs65eP6wN9Alm5mGPMhOGqwd2lHKMqHVS-odI3qZ_ulH58wofxYzmXFPu860CC2x-105LtY475z5nLqspiiq3_t3jy7_48Vjvm8zO3wZZfZCgBjqwIhrRQVKxhCZ6nSTPqEJBTDS46HKoiplJUpb6iJ9aIqN7RCL2LQq7cgVe9jdYGeBycy81wGfxoivEHwVi_iEjzpDhnYN-QMMbR-GTG3UYHdL7lAoQ8dw9iS2tG2RSDvf1u8l4sRDK5xxrNfPxRlM1bsamu4qy9Ic3O_ocVglZhzeDtxqJ0-5flfZv2_54j1KnscQp6Hb-1GzfhHEWf2gxT_wpiCgktvZakYqqgUSgtXVBXoa2JPHPhAc3iSbPECU0uniYa5ngwbIvOOETvJHBgRTPMyI6dcDEKS1_QJQrJbdAW6E7exubfBqVrqlLZd_3uw65eYspc6UWMPUoZV4MKepYnfup-3nqWWPZYCLPtfOR54wVQaiHmh4EloYNmiNyetylU6_1EiUBN126-gAoClU96HBotni49V7IrV4cqxTe0RC80-JAfap3GxvhvV5KEkBiD4ewaEs_aMmR_gMydQcLsnVPFWThqWX6Atljv1nLCYOeCMYhhFKyY4DTv0E8rqfLPdzL8UoJZdj295tl4oZt9IxbdTWet9hPOhP8GknBm6l84hzsEvRXBYMwrl6lRURfEo9WmEdLrIIpTFoadoSzpDlk-rhI3875CVxH9PUKraq70k-MfNn8VeVtquJVFrSF-jvnIIFXMqY3MwNT5aZN0NHPXo74rhSTzCU5v0LuzOIf30e7PSMjifO3bI9g3oBzOqvdy3n8iItOVarWukcNZkYrUFCoRHw4-hNYlO7N6s2m9FUY9ewgKF4N0_rbINBYAOD9AN2PIePEb2plFA1J5LbdfcfqqgyweaZLgj5OQDglAaHotJAr765GjPnpPIfhluEw6TwLohagoiX6M-eV7fPs2Tn9MbjeoXZUy9d6U9D658WbhCVZ4B6hubJbZXw2iIhQRx27hrIFwwDBE4FIoTyZbQa6L2byYz9D0GcvS6I_DUdXYqbTAxORaT_DDX_0i0)
 ```PlantUML
 @startuml Components-DataAggregationService
 !include <C4/C4_Component>
@@ -159,23 +173,46 @@ title Component diagram: Data Aggregation Service
 Container_Boundary(dataagg, "Data Aggregation Service") {
 
     Component(api, "Aggregation API", "Controller", "Точка входа для получения агрегированных данных")
-    Component(coord, "Aggregation Coordinator", "Domain Logic", "Оркестрирует сбор данных")
-    Component(crmAdapter, "CRM Adapter", "Integration")
-    Component(regAdapter, "Registry Adapter", "Integration")
-    Component(govAdapter, "Gov Adapter", "Integration")
-    Component(sanctionsAdapter, "Sanctions Adapter", "Integration")
+    Component(coord, "Aggregation Coordinator", "Domain Logic", "Оркестрирует сбор данных из внешних источников")
+    Component(crmAdapter, "CRM Adapter", "Integration", "Запрос данных из CRM")
+    Component(regAdapter, "Registry Adapter", "Integration", "Запрос структуры группы компаний")
+    Component(govAdapter, "Gov Adapter", "Integration", "Получение юридических данных из госреестров")
+    Component(sanctionsAdapter, "Sanctions Adapter", "Integration", "Проверка компании по санкционным спискам")
     Component(normalizer, "Data Normalizer", "Domain Logic", "Нормализует данные в единую модель")
-    Component(cache, "Data Cache", "Storage", "Кэш агрегации")
+    Component(cache, "Data Cache", "Storage", "Кэш агрегированных данных")
 }
 
-Rel(api, coord, "Оркестрация")
-Rel(coord, crmAdapter, "CRM")
-Rel(coord, regAdapter, "Registry")
-Rel(coord, govAdapter, "Gov data")
-Rel(coord, sanctionsAdapter, "Sanctions")
-Rel(coord, normalizer, "Нормализация")
-Rel(normalizer, cache, "Чтение/запись")
-Rel(api, cache, "Чтение кеша")
+' -------- Внешние системы --------
+System_Ext(scoring, "Scoring Service", "Клиент сервиса агрегации")
+System_Ext(crm, "CRM System", "Информация о клиентах, договорах")
+System_Ext(registry, "Corporate Registry", "Связи голова–филиалы")
+System_Ext(gov, "Gov Registries (ЕГРЮЛ/ФНС)", "Юридический статус компании")
+System_Ext(sanctions, "Sanctions Lists", "Внешние и внутренние санкционные данные")
+System_Ext(db, "Operational DB", "PostgreSQL (кэш/справочники)")
+
+' -------- Связи компонентов внутри сервиса --------
+Rel(scoring, api, "Запрашивает агрегированные данные", "REST/gRPC")
+
+Rel(api, coord, "Оркестрация", "in-process")
+
+Rel(coord, crmAdapter, "Запрос данных", "REST")
+Rel(coord, regAdapter, "Запрос структуры группы", "REST")
+Rel(coord, govAdapter, "Запрос юридических данных", "API")
+Rel(coord, sanctionsAdapter, "Проверка санкций", "API")
+
+Rel(coord, normalizer, "Передаёт сырые данные", "in-process")
+Rel(normalizer, cache, "Чтение/запись", "in-process")
+
+Rel(api, cache, "Читает кеш", "in-process")
+
+' -------- Связи адаптеров с внешними системами --------
+Rel(crmAdapter, crm, "Получает клиентские данные", "REST")
+Rel(regAdapter, registry, "Читает структуру компании", "REST")
+Rel(govAdapter, gov, "Запрашивает юридические факты", "API")
+Rel(sanctionsAdapter, sanctions, "Проверяет санкционные статусы", "API")
+
+' -------- Если кеш частично хранится в БД --------
+Rel(cache, db, "Опционально сохраняет данные", "SQL")
 
 @enduml
 

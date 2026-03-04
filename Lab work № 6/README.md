@@ -1,5 +1,5 @@
 # Лабораторная работа №6 — Использование шаблонов проектирования (GoF)  
-**Проект:** Rule-Based Compliance Assessment System (оценка ветки + материнской компании)
+**Проект:** Rule-Based Compliance Assessment System
 
 ---
 

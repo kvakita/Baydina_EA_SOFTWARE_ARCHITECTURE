@@ -33,7 +33,7 @@
 Создание объектов правил проверки по `ruleType` (санкции, бенефициары, страна риска и т.д.) — без `new` по всему коду и без жёсткой связки с конкретными классами.
 
 **UML:**  
-![Factory Method](images/01_factory_method.png)
+![Factory Method](https://uml.planttext.com/plantuml/png/RP3H2i8m34NVynLvLCHzm10H4Tz4K7yWTfaMQYTjgWxdlzkw3KLzpBsvoKbcNiX9E1aGBOPnIKegL-EAvLWL0DeAkv8KuoP4-mw88rqCXZbwSTeUKiqNCe641qfkqKYD6_R123m0b27lSKjMYQwiJsQdpTbogPKcixvQTgq5hpMJ9ik-Cc_zVuxs4IZ2OpiyYVqjBsZbE26wgE_gC_Vy7U-RTC4bHVIFF7pEcZJZyR-UNmcpRDe-BSTskGUOiItYivy0)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -155,7 +155,7 @@ console.log(rule.evaluate(ctx));
 Переключение набора источников данных (боевой контур / мок-контур): `ProdFactory` создаёт API-клиенты, `MockFactory` — заглушки для тестирования сценариев.
 
 **UML:**  
-![Abstract Factory](images/02_abstract_factory.png)
+![Abstract Factory](https://uml.planttext.com/plantuml/png/XPFBQiCm44Nt-efP9WJy0QQKX9RIJQ2GPUbY8azJKLiAqcGHqlnxx4IsnY-wyUBwp9rZ2Qy3e-TJLIesN19ize4zQeQt-k7yMIbZcVmtQe8NLntHdb-HSUTElauk2c1r88vl5gR8ePutzh3CMrnTPSSEhMRZR1Ys14AlVnOMAn8TxuO_l_eDQJ0gFkPrL4YB4tZlRnStn8H5iqIN609yU5UqN_z8jax_jibu_TDVblM6PX3P8bP5sytHYB0JJ74p7jbedF8EZs_K-AewIx5lwZ8whgSmqpTscgsSr1Id1bdsFF237BGdP0gJe1GKg3ZcEpfo_8STI0fQhSaMzQzo0m00)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -229,7 +229,7 @@ console.log(company, hits);
 Сборка explainable-отчёта `AssessmentReport` (итог, причины, результаты правил, missing data) из результатов branch + parent и логики объединения.
 
 **UML:**  
-![Builder](images/03_builder.png)
+![Builder](https://uml.planttext.com/plantuml/png/VP4z3i8m38Ntd29Z4Ee5CY10B0m8gIjY2CIWI6c3R6T0YBkJfBHgnSzcFxyutvENn0OvDbwmOmzo7PstW4ASlI6IAo8WQg3b6cu1MJw4bFFKEhvlhPR4wDfhraBaSsX0otrNP0t1K6YfjnsEHOmUQg3eEGtgeUc6ZIDAperXCthrx74wY3TZOQcmIFg3D6yZu3UD2WFOJ4_NPAEnjYwi2ljlVza6O8Kuvl_XttM1rCM1j_zsdtAfPb-2fFJJt5Mr-3oCbcK32R64rgQ3lW00)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -296,7 +296,7 @@ console.log(report);
 Разные провайдеры санкций/реестров дают разные форматы — адаптер нормализует их к общему `NormalizedSanctionsHit`.
 
 **UML:**  
-![Adapter](images/04_adapter.png)
+![Adapter](https://uml.planttext.com/plantuml/png/ZP2n2i8m48RtUueRAz8-G71emS7PWeiu76cg1ssI9bSwgEzkg22rEBZ-y7t_VrT6eI1Ztu6mT0QhXhoO0A0xYX5FnZOkL9Ldl0FYjcNRP8F2A87jTQFmIDE1vNo19m3RHBQa3TPajR2pSKz2jHj3ocO-6WhwbbdgpKBoCNoNlgVCO4wUrMBD7wvV6tQFebZfOTNcydnvjS8fa8y0PShIcru0)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -350,7 +350,7 @@ console.log(await src.search("ACME BV"));
 `ComplianceFacade` скрывает шаги: получение данных ветки/материнской → запуск правил → merge → сбор отчёта.
 
 **UML:**  
-![Facade](images/05_facade.png)
+![Facade](https://uml.planttext.com/plantuml/png/VP3D2i9038JlUOeS5S47w47gBtZmqZv1R6DTsEwMRFPGn7UtL8kLIgypa_c6f459DDOMrAXbF5519GCKbaB0lQyRQyWL_DRn0OYhpk4G5bVfZFkvJ32e65Sj4zpsJirECswyA3m1Z5EM6nMC1rBAVPI-JRsq7qeMBHzTPHmFGd-yYyQMBAE22ql5kGefLot0PDrwlPb2CC7OhVgV_g9dOp_W-SBnz249ARko-_4B)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -415,7 +415,7 @@ export class ComplianceFacade {
 Добавление кэширования/логирования вокруг `SanctionsDataSource` (аудит вызовов, оптимизация количества запросов).
 
 **UML:**  
-![Decorator](images/06_decorator.png)
+![Decorator](https://uml.planttext.com/plantuml/png/XP6n2W8n38RtF4N0HH7l0SeDXpeuk3cAGwpnB9ojf147ptUtUAZWzN1jak__abPHIVHwRa2TDenBja58Wm0uhon7iemRybPTy759IfjmbVHs1yHfP19x6diwiy6eudmzCRXokjt10y0s52FEAVA7q4r3ZbYsHP5j1jedDbd53lWTVik-R4REUnQJi_tlEYZK3uDCVfZDibSoU1EwnFSf5cHFVFZThwkjGrttQxcmiarfUTHGzm2yOdz8V_y4)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -466,7 +466,7 @@ console.log(await src.search("ACME BV"));
 Группа обязательных проверок (mandatory checks) оформляется как `RuleGroup`, выдающая агрегированный результат по дочерним правилам.
 
 **UML:**  
-![Composite](images/07_composite.png)
+![Composite](https://uml.planttext.com/plantuml/png/XP312i9034Jl-OezQgL-GF5GzE1Hg4Vn4BOf1hPPsSsgeFwxjIqMHF0MPfYNISge63Ir3fJLaTduzkmZAm6mA8K6BPagTSuTZ5dG1Lr2fPdLsxpeZOfYSWfF0EimHhD7iSfUujiSjJK9DMmPtUug50QhfwuUo-LNPD9_naRaUzu6dyvziToUsDM1PEXqo8v_sqvhFYYOe3xFXxCBOxqeiaIJ0PGaTVUi5m00)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -508,7 +508,7 @@ console.log(group.evaluate({ branch: { id:"B1", name:"ACME" }, missing: [], sanc
 Разные политики объединения результатов ветки и материнской компании (консервативная, взвешенная, “review при missing”).
 
 **UML:**  
-![Strategy](images/08_strategy.png)
+![Strategy](https://uml.planttext.com/plantuml/png/RP6nZi8m44Jx_OejGH0-8Be2wMg458eh48L9veA5uvoywqZeZd-_X932KKhFxdZyndjH4pGsZjIg0vyq64Nz8B9U4RvD2JuWr9W6_4lCcsQGLjTWV7dBkOWE1IGwFL-s_6C2lARgEkTZrB9jG4-YqXaH_coz87H6ROTNn5ilhDo_OEkReXfrIb_myRVRBRWNbXQk6ZF6tTvlUxw1A9EtCKzn1rY1JiULpEOzMDVQQjx9r4BAdQIsMJPhDkSe4A8zVDN_o3y0)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -554,7 +554,7 @@ export class RiskWeightedMerge implements MergeStrategy {
 Реализация workflow обязательных проверок: наличие данных → санкции → ownership → linkage → формирование промежуточных результатов.
 
 **UML:**  
-![Chain](images/09_chain_of_responsibility.png)
+![Chain]([images/09_chain_of_responsibility.png](https://uml.planttext.com/plantuml/png/VP6nJWCn38RtF8KbbY9qBt3gKEaO610WEZ2xEPTObpgds715mBiJMf0Q3jYYx_-attPMQfZjQHUTiKM2BY0Bf2tSauv9b3SSsLwSyn5LuI7bOHlJrDdUEToePVG6nwmBv8Shb3vIXbS7q0ZjhQrueHTATbE2HQYZyxaP3i_5r9xs5kyvSL_oip4dJwf_2E_VGr-YuLqc9V5qgFZYrom3FbPeZUADozwdy7OIoXfuF49NBRfyQvfV6kPErJQFVpJFXN-dI4MeG0kVntTkHTANt_q0))
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -627,7 +627,7 @@ console.log(w.results, w.ctx.missing);
 Аудит и метрики выполнения проверок: запуск правила, результат, missing data, тайминги.
 
 **UML:**  
-![Observer](images/10_observer.png)
+![Observer](https://uml.planttext.com/plantuml/png/VP5FImCn4CNlyobot5RI3x18gKXlYb0F7gI7D9bkHs8YoMHHsdvtit_IfLYylZVlpI-JLMGLE7rQO6ABucKNCRGO0BHLCOfrYuu1o366lTBJW3Y247VfooZ62kjXS5QBrfE1Sua_94Fyv9icDmxACt8W7H-zjQZP1xWKtfyMYwl0jVCdE1Q-fjr75deUwST8h2-Wx_DjHwgObJvKVZ8AR3OD_cCwpxJ_kVN6ijfBETsb5ds0C8fvOTmaYslNaCCtuaDV4mVWa9qCsmsCe26vIlFtR10t69FbpihxRjP8ULgM8m2iq9dycxy0)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -697,7 +697,7 @@ console.log(metrics.snapshot());
 Каждое вычисление правила оформляется как `EvaluateRuleCommand`, а `CommandRunner` запускает набор команд (например, выбранные mandatory checks) и возвращает результаты.
 
 **UML:**  
-![Command](images/11_command.png)
+![Command](https://uml.planttext.com/plantuml/png/RL7D2i8m3BxtANBqX-q1XWn5V87XJJoKBi8mxQ19PQ2-kvdR_CDZylscNRFOACcJaKO8OTjwRqDjJ1C4uycwrsgrB-5g09ROeKk2ita1UtF_P5P97GREnLAoIdBIAQy7AkH4qWiSMMROZPGU6oEUsYpgOf3qaneKi656Pez1jgscTVBJuzj_SblTylnVZFaNtMRPqBy0PubugZdYLGe1ut1SJ653D7E-vkBrEkyAvM5n_EgayqUjqIdFoqchaKsuj6TaM1Ypnb3hVpm0)
 
 **Код (TypeScript, фрагмент):**
 ```ts
@@ -738,7 +738,7 @@ console.log(runner.runAll(cmds));
 Общий pipeline оценки: загрузка данных → запуск правил → merge → отчёт. Конкретная реализация для `branch+parent` задаёт, как именно загружать данные и какие правила запускать.
 
 **UML:**  
-![Template Method](images/12_template_method.png)
+![Template Method](https://uml.planttext.com/plantuml/png/RL7D2i8m3BxtANBqX-q1XWn5V87XJJoKBi8mxQ19PQ2-kvdR_CDZylscNRFOACcJaKO8OTjwRqDjJ1C4uycwrsgrB-5g09ROeKk2ita1UtF_P5P97GREnLAoIdBIAQy7AkH4qWiSMMROZPGU6oEUsYpgOf3qaneKi656Pez1jgscTVBJuzj_SblTylnVZFaNtMRPqBy0PubugZdYLGe1ut1SJ653D7E-vkBrEkyAvM5n_EgayqUjqIdFoqchaKsuj6TaM1Ypnb3hVpm0)
 
 **Код (TypeScript, фрагмент):**
 ```ts

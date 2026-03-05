@@ -554,7 +554,7 @@ export class RiskWeightedMerge implements MergeStrategy {
 Реализация workflow обязательных проверок: наличие данных → санкции → ownership → linkage → формирование промежуточных результатов.
 
 **UML:**  
-![Chain]([images/09_chain_of_responsibility.png](https://uml.planttext.com/plantuml/png/VP6nJWCn38RtF8KbbY9qBt3gKEaO610WEZ2xEPTObpgds715mBiJMf0Q3jYYx_-attPMQfZjQHUTiKM2BY0Bf2tSauv9b3SSsLwSyn5LuI7bOHlJrDdUEToePVG6nwmBv8Shb3vIXbS7q0ZjhQrueHTATbE2HQYZyxaP3i_5r9xs5kyvSL_oip4dJwf_2E_VGr-YuLqc9V5qgFZYrom3FbPeZUADozwdy7OIoXfuF49NBRfyQvfV6kPErJQFVpJFXN-dI4MeG0kVntTkHTANt_q0))
+![Chain](https://uml.planttext.com/plantuml/png/VP6nJWCn38RtF8KbbY9qBt3gKEaO610WEZ2xEPTObpgds715mBiJMf0Q3jYYx_-attPMQfZjQHUTiKM2BY0Bf2tSauv9b3SSsLwSyn5LuI7bOHlJrDdUEToePVG6nwmBv8Shb3vIXbS7q0ZjhQrueHTATbE2HQYZyxaP3i_5r9xs5kyvSL_oip4dJwf_2E_VGr-YuLqc9V5qgFZYrom3FbPeZUADozwdy7OIoXfuF49NBRfyQvfV6kPErJQFVpJFXN-dI4MeG0kVntTkHTANt_q0)
 
 **Код (TypeScript, фрагмент):**
 ```ts
